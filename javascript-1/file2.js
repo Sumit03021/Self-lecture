@@ -10,7 +10,7 @@ console.log(firstname);
 //can not start with number
 //example 1value (invalid) and value1(valid)
 
-
+// hello world
 //use only undeerscore and dollar symbol
 var first_name="harsh";
 // use _first_name ,first_name as(valid)  called snake case writing
